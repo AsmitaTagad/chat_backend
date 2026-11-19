@@ -1,3 +1,6 @@
 node_modules
 npx prisma init --datasource-provider postgresql
 /src/generated/prisma
+dist/
+.env
+serviceAccountKey.json
